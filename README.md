@@ -2,7 +2,7 @@
 <h1 align="center">Hey, It's ClaudieCodes</h1>
 <h3 align="center">A passionate learner of web and mobile apps development</h3>
 <br>
-- 🌱 I’m currently learning **Javascript, Typescript, React.js, Next.js, React Native**
+- 🌱 I’m currently learning <b>Javascript, Typescript, React.js, Next.js, React Native</b>
 
 
 <br><br>
